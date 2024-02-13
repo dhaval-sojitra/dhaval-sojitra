@@ -1,13 +1,13 @@
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/rahul-kanjariya-6672411ab/" target="_blank"> Dhaval Sojitra</a></h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Ui/Ux+and+FrontEnd+Devloper%3A)" /> </h3>
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/dhaval-sojitra-3a3684250/" target="_blank"> Dhaval Sojitra</a></h1>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=+Full+Stack+Devloper%3A)" /> </h3>
 
 - 🌱 Learning Never Stops 🚀
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in//"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:rahulkanjariya9265@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-   <a href="https://www.instagram.com/rk_ui_ux/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dhaval-sojitra-3a3684250/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dhavalsojitra875@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+   <a href="https://www.instagram.com/_dhvl_1210/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
  
 
 <h3 align="left">Web Tech Stack :</h3>
