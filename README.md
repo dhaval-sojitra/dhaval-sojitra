@@ -1,17 +1,50 @@
-### Hi I'm Dhaval Sojitra👋
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/rahul-kanjariya-6672411ab/" target="_blank"> Dhaval Sojitra</a></h1>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Ui/Ux+and+FrontEnd+Devloper%3A)" /> </h3>
 
-<a href="https://www.instagram.com/rk_ui_ux/" rel="nofollow"><img alt="Instagram" src="https://camo.githubusercontent.com/25086f56cd45be5a899ae3feff86e2002bbd656fa569b666d2dd828b538fc9e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
-<!--
-**dhaval-sojitra/dhaval-sojitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Learning Never Stops 🚀
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
+<div align="left">
+  <a href="https://www.linkedin.com/in//"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:rahulkanjariya9265@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+   <a href="https://www.instagram.com/rk_ui_ux/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Web Tech Stack :</h3>
+<div align="left">
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<br>
+<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+</div>
+
+<h3 align="left">Languages :</h3>
+<div align="left">
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</div>
+
+<h3 align="left">Databases :</h3>
+<div align="left">
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</div>
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=dhaval-sojitra&show_icons=true&theme=dark&locale=en" alt="dhaval-sojitra" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhaval-sojitra&show_icons=true&theme=dark&locale=en&layout=compact" alt="dhaval-sojitra" /></td>
+  </tr>
+</table>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhaval-sojitra&theme=dark" alt="dhaval-sojitra" /></p>
+
+  ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dhaval-sojitra&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+  </div>
